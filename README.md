@@ -16,7 +16,7 @@ java.exe --jar path\to\CarTubeInstaller.v0.1-alpha.general.jar
 ```
 
 On **Mac OS** if you got *Unidentified developer* error:
-- Open System Preferences
-- Go to Security & Privacy
-- Select the General tab
-- Click on **Open anyway**
+1. Open System Preferences
+2. Go to Security & Privacy
+3. Select the General tab
+4. Click on **Open anyway**
