@@ -12,7 +12,7 @@ java --jar path/to/CarTubeInstaller.v0.1-alpha.general.jar
 
 **Windows**
 ```
-Java.exe --jar path\to\CarTubeInstaller.v0.1-alpha.general.jar
+java.exe --jar path\to\CarTubeInstaller.v0.1-alpha.general.jar
 ```
 
 On **Mac OS** if you got *Unidentified developer* error:
